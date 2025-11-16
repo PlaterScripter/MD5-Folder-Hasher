@@ -1,0 +1,2 @@
+rc MD5Hasher.rc
+cl /EHsc /O2 /MD /W3 /DNDEBUG /D_WINDOWS MD5Hasher.cpp main.cpp /link /SUBSYSTEM:WINDOWS /OPT:REF MD5Hasher.res user32.lib kernel32.lib gdi32.lib comctl32.lib shell32.lib ole32.lib advapi32.lib
