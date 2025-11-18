@@ -43,4 +43,5 @@ private:
     void updateStatus();
 
     static LRESULT CALLBACK staticWndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam);
+
 };
