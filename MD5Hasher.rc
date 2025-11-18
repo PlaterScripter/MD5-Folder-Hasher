@@ -15,12 +15,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "MD5 Hasher Utility"
             VALUE "FileDescription", "MD5 File Hasher - Creates MD5 checksums for files"
-            VALUE "FileVersion", "1.0.0.1"
+            VALUE "FileVersion", "1.0.0.2"
             VALUE "InternalName", "MD5Hasher"
             VALUE "LegalCopyright", "Copyright © 2025 - Educational Utility"
             VALUE "OriginalFilename", "MD5Hasher.exe"
             VALUE "ProductName", "MD5 File Hasher Utility"
-            VALUE "ProductVersion", "1.0.0.1"
+            VALUE "ProductVersion", "1.0.0.2"
         END
     END
     BLOCK "VarFileInfo"
